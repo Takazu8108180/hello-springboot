@@ -1,0 +1,16 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.245.0/containers/java
+{
+	"name": "Java Maven Test Env",
+	"dockerFile": "Dockerfile",
+
+	"settings": { 
+	},
+	
+	// Add the IDs of extensions you want installed when the container is created.
+	"extensions": [
+		"vscjava.vscode-java-pack",
+		"mhutchie.git-graph",
+		"eamodio.gitlens"
+	]
+}

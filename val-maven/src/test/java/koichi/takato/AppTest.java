@@ -1,4 +1,4 @@
-package training.koichi.takato;
+package koichi.takato;
 
 import static org.junit.Assert.assertTrue;
 

@@ -1,4 +1,4 @@
-package training.koichi.takato;
+package koichi.takato;
 
 /**
  * Hello world!
